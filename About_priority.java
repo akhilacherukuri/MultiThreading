@@ -1,6 +1,6 @@
 package MultiThreading;
 
-public class About_priority extends Thread {
+public class AboutPriority extends Thread {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
