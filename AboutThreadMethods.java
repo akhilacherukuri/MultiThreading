@@ -1,6 +1,6 @@
 package MultiThreading;
 
-public class about_thread_methods implements Runnable {
+public class AboutThreadMethods implements Runnable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
