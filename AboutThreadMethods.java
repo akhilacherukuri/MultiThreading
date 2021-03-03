@@ -4,7 +4,7 @@ public class AboutThreadMethods implements Runnable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		about_thread_methods obj = new about_thread_methods();
+		AboutThreadMethods obj = new AboutThreadMethods();
 		ThreadGroup groupname = new ThreadGroup("group1");
 
 		Thread t1 = new Thread(groupname, obj, "First Thread");
